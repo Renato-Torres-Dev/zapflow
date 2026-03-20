@@ -316,7 +316,7 @@ export default function AdminDashboard() {
         {/* Rodapé */}
         <div className="text-center py-6 border-t border-border/50">
           <p className="text-xs text-muted-foreground">
-            ZapFlow v1.0 - Sistema de Agendamento Inteligente
+            ZapFlow v1.0.0 - Sistema de Agendamento Inteligente
           </p>
         </div>
       </div>
